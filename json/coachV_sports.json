@@ -1,0 +1,30 @@
+[  
+   {  
+      "id_sport":"1",
+      "nom":"cardio"
+   },
+   {  
+      "id_sport":"2",
+      "nom":"crossfit"
+   },
+   {  
+      "id_sport":"3",
+      "nom":"powerlifting"
+   },
+   {  
+      "id_sport":"4",
+      "nom":"bodybuilding"
+   },
+   {  
+      "id_sport":"5",
+      "nom":"haltéro"
+   },
+   {  
+      "id_sport":"6",
+      "nom":"strongman"
+   },
+   {  
+      "id_sport":"7",
+      "nom":"pilométrie"
+   }
+]

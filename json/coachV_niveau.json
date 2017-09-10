@@ -1,0 +1,14 @@
+[  
+   {  
+      "id_niveau":"1",
+      "niveau":"débutant"
+   },
+   {  
+      "id_niveau":"2",
+      "niveau":"intermédiaire"
+   },
+   {  
+      "id_niveau":"3",
+      "niveau":"confirmé"
+   }
+]

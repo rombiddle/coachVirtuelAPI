@@ -1,0 +1,14 @@
+[  
+	{  
+		"id_materiel":"1",
+		"nom":"sans matériel"
+	},
+	{  
+		"id_materiel":"2",
+		"nom":"poids libre"
+	},
+	{  
+		"id_materiel":"3",
+		"nom":"machines"
+	}
+]

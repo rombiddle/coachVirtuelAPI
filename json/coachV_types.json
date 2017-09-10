@@ -1,0 +1,14 @@
+[  
+   {  
+      "id_types":"1",
+      "type":"force"
+   },
+   {  
+      "id_types":"2",
+      "type":"volume"
+   },
+   {  
+      "id_types":"3",
+      "type":"finition"
+   }
+]
